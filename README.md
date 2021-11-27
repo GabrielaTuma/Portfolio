@@ -78,7 +78,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 
 
-## neural networks
+## Neural Networks
 
 Using machine learning and neural networks, this project's goal is to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
