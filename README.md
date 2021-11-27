@@ -7,7 +7,7 @@ Assignments completed during Data Analytics Boot Camp - UofT SCS
 
 Project overview 
 
-[Link for repository](https://github.com/GabrielaTuma) 
+[Link for repository](https://github.com/GabrielaTuma?tab=repositories) 
 
 -----
 
