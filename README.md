@@ -49,7 +49,7 @@ Determine the number of retiring employees per title, and identify employees who
 
 The client wants more information about temperature trends before opening the surf shop. Using the hawaii.sqlite database the goal is to provide statistical results and recommendations about the new investment.
 
-[SQLite](https://github.com/GabrielaTuma/surfs_up)
+[SQLite - surfs_up](https://github.com/GabrielaTuma/surfs_up)
 
 
 
@@ -68,13 +68,13 @@ Support decision-making processes about a bike-sharing program in Des Moines. To
 
 Using the credit card credit dataset from LendingClub, a peer-to-peer lending services company, this project is about employing different machine learning techniques to train and evaluate models with unbalanced classes.
 
-[Supervised Machine Learning](https://github.com/GabrielaTuma/Credit_Risk_Analysis)
+[Supervised Machine Learning - Credit_Risk_Analysis](https://github.com/GabrielaTuma/Credit_Risk_Analysis)
 
 
 
 ## Unsupervised Machine Learning
 
-[Unsupervised Machine Learning](https://github.com/GabrielaTuma/Cryptocurrencies)
+[Unsupervised Machine Learning - Cryptocurrencies](https://github.com/GabrielaTuma/Cryptocurrencies)
 
 
 
